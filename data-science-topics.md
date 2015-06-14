@@ -11,4 +11,4 @@
 <li>50.000 USD > Allstate Purchase Prediction Challenge: (https://www.kaggle.com/c/allstate-purchase-prediction-challenge)</li>
 </ul>
 
-* General Electric's Flight Quest was originally created as 4-seperate challenges. This reward sums all 4 competition.
+*General Electric's Flight Quest was originally created as 4-seperate challenges. This reward sums all 4 competition.
