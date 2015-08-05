@@ -2,7 +2,7 @@
 Here we will list previous meet-ups in order to keep track of the history.
 
 #Meet-Up 4: Introduction to Deep Learning
-Presenter: Fatih Mehmet Güler - Founder / PragmaCraft
+Presenter: Fatih Mehmet Güler - Founder / PragmaCraft  
 Date: 03/07/2015  
 
 #Meet-Up 3: Apache Spark
